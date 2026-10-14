@@ -3,7 +3,7 @@
 # BloomLoop CRM
   Backend URL : https://bloomloop-app.onrender.com
   
-  FRONTEND URL: bloomloop-app.vercel.app
+  FRONTEND URL: https://bloomloop-app.vercel.app
   
 # An enterprise-grade, full-stack Customer Relationship Management (CRM) platform powered by **FastAPI**, **React 19**, **PostgreSQL**, **Clerk Authentication**, and **Groq Cloud AI**.
 
