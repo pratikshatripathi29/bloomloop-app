@@ -1,0 +1,32 @@
+# Environment variables & secrets (CRITICAL: Never commit .env files)
+.env
+.env.*
+*.env
+!.env.example
+
+# Dependencies & Virtual Environments
+node_modules/
+venv/
+.venv/
+env/
+ENV/
+
+# Python bytecode & cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+
+# Build artifacts & logs
+dist/
+dist-ssr/
+build/
+*.log
+npm-debug.log*
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
